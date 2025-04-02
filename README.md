@@ -35,7 +35,7 @@
 ### 📈 &nbsp;Estatísticas do GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielsilvacodes&show_icons=true&theme=default&hide=prs,issues"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriel-oliveiradev&show_icons=true&theme=default&hide=prs,issues"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvacodes&layout=compact&theme=default"/>
 </p>
 
