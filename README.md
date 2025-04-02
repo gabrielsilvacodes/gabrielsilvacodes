@@ -43,8 +43,8 @@
 
 ### 📫 &nbsp;Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabrielsilvacodes)  
-[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail)](mailto:gabrielsilvacodes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-oliveiradev)  
+[![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail)](mailto:gabrielsilvacodes@outlook.com)
 
 ---
 
