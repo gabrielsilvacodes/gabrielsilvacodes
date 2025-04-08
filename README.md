@@ -8,7 +8,7 @@
 
 ---
 
-### ⚙️ &nbsp;Tecnologias que venho utilizando
+### ⚙️ Tecnologias que venho utilizando
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
@@ -22,26 +22,27 @@
 
 ---
 
-### 🛠️ &nbsp;Projetos em destaque
+### 🛠️ Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🧩 **Sistema com POO em Java** *(EducaGame)* | Projeto acadêmico utilizando princípios da Programação Orientada a Objetos em Java, com foco educativo | Java, POO |
+| ✅ **OrganizaAí - To-Do List** | Aplicativo web de lista de tarefas com filtro, busca, tema escuro, localStorage e animações | HTML, CSS, JavaScript |
+| 🧩 **Sistema com POO em Java** (*EducaGame*) | Projeto acadêmico utilizando princípios da Programação Orientada a Objetos com foco educativo | Java, POO |
 | 🌐 **Portfólio Pessoal** | Página pessoal com informações sobre mim, meus projetos e formas de contato | HTML, CSS |
 | 🔢 **Jogo do Número Secreto** | Jogo interativo onde o jogador tenta adivinhar um número aleatório | HTML, CSS, JavaScript |
 
 ---
 
-### 📈 &nbsp;Estatísticas do GitHub
+### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielsilvacodes&show_icons=true&theme=default&hide=prs,issues"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvacodes&layout=compact&theme=default"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielsilvacodes&show_icons=true&theme=default&hide=prs,issues" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsilvacodes&layout=compact&theme=default" />
 </p>
 
 ---
 
-### 📫 &nbsp;Vamos nos conectar!
+### 📫 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-oliveiradev)  
 [![Email](https://img.shields.io/badge/-Email-333?style=flat&logo=gmail)](mailto:gabrielsilvacodes@outlook.com)
